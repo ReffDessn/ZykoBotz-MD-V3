@@ -36,60 +36,60 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/chxrnvkhalxst'
+global.tautanwa = 'https://wa.me/62822522851432'
+global.sgh = 'https://github.com/RyanStore' //github
+global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/'
+global.syt = 'https://youtube.com/'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.snh = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
+global.media = 'https://telegra.ph/file/650f52b65c18e0714584a.jpg'
+global.wame = 'https://wa.me/62822522851432'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['62822522851432', 'M. Ryan Aditya', true],
+['62823504965320', 'M. Zidan Hazneif', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
+global.nomorbot = '62823504965329' //pasang no bot lo 
+global.nomorown = '62822522851432' //pasang no own lo
+global.nomorown1 = '62823504965320'
+global.nomorown2 = '6285345899783'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Ryan Aditya'
+global.gcname = 'Azure X BotZ Official'
+global.author = 'Created By Azure Botz'
+global.namabot = 'Azure-Md'
+global.namebot = 'Azure-Md'
+global.packname2 = 'Azure-Botz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'M. Zidan Haznief'
+global.nameown2 = 'Own Cadangan'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Azure Bot'
+global.wm2 = 'Azure-Botz'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `Azure-MD`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'Azure-MD'
+global.stickauth = `© Ryan X Zidan`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ Time: ${wktuwib}`
 global.jb = `📆 TANGGAL : ${date}\n⌚ JAM ${wib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.week = `${week} ${date}`
@@ -97,24 +97,24 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
+global.botintro = 'ʜᴀʟʟᴏ, sᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ʏᴀɴɢ sɪᴀᴘ ᴍᴇᴍʙᴀɴᴛᴜ ᴀɴᴅᴀ ᴋᴀᴘᴀɴᴘᴜɴ ᴅᴀɴ ᴅɪᴍᴀɴᴀᴘᴜɴ.\nsᴀʏᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢᴇʀᴊᴀᴋᴀɴ ᴛᴜɢᴀs ᴏᴛᴏᴍᴀᴛɪs sᴇᴘᴇʀᴛɪ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ/ᴀᴜᴅɪᴏ,ᴍᴇᴍʙᴜᴀᴛ sᴛɪᴄᴋᴇʀ,ᴅᴀɴ ᴊᴜɢᴀ ʙᴜsᴀ ᴍᴇɴᴊᴀɢᴀ ɢʀᴜᴘ ᴀɴᴅᴀ'
+global.intro = 'https://telegra.ph/file/650f52b65c18e0714584a.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://lynk.id/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '082350496532' //pasang no lo sinih buat donasi 
+global.povo = '082350496532' 
+global.pgopay = '082252285143'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '082350496532'
+global.ppulsa2 = '082252285143'
+global.psaweria = 'https://saweria.co/jbyannstore'
+global.donasikabul = 'https://saweria.co/jbyannstore',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -137,7 +137,7 @@ global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊✎ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
+global.cmenua = '\n⌕ Azure Botz - Created : 2021-2023  ⌕\n     '
 global.pmenus = '✎'
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
@@ -147,18 +147,18 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.md = 'tunggu sebentar kak'
-global.eror = 'Mohon Maaf Server Kami Sedang Error!'
+global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% ᴡᴀɪᴛ!'
+global.wait = '▰▰▰▰▰▰▱▱ 98% ᴡᴀɪᴛ!!'
+global.md = 'ᴍᴏʜᴏɴ ᴛᴜɴɢɢᴜ sᴇʙᴇɴᴛᴀʀ...'
+global.eror = 'ᴍᴏʜᴏɴ ᴍᴀᴀғ sᴇʀᴠᴇʀ sᴇᴅᴀɴɢ ᴇʀʀᴏʀ!'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
-global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
-global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
+global.benar = 'Benar !'
+global.salah = 'Salah !'
+global.dikit = "Dikit Lagi,Semangat!!"
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.multiplier = 69 // The higher, The harder levelup 
+global.multiplier = 49 // The higher, The harder levelup 
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
@@ -340,16 +340,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/chxrnvkhalxst"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '628XXXXXXXXX'
+global.phn = '62822522851432'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/650f52b65c18e0714584a.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/650f52b65c18e0714584a.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
